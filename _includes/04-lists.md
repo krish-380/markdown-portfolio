@@ -1,5 +1,5 @@
--[]home
--[]soft skills
--[]language
--[]projects 
--[]training
+* emoji
+* projects
+* training
+* college works 
+* certificates
