@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+-[]home
+-[]soft skills
+-[]language
+-[]projects 
+-[]training
